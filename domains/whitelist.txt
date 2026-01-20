@@ -184,6 +184,7 @@ pings.conviva.com
 cws.conviva.com
 livepassdl.conviva.com
 gfwsl.geforce.com
+googleadservices.com
 appspot-preview.l.google.com
 vidtech.cbsinteractive.com
 continuum.dds.microsoft.com
